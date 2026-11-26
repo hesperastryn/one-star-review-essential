@@ -1,3 +1,6 @@
+# Entry point for the one-star review of sleep.
+# Writes the single deadpan review line to /output/entry.txt.
+# Standard library only; the output text is fixed, no input is read.
 """One-star review of something essential.
 
 Writes a single deadpan one-star review (one line, under 160
